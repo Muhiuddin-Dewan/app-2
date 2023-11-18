@@ -8,3 +8,4 @@
 #### step-3: Created Jenkinsfile which will build the image and pushed to dockerhub
 
 #### step-4: Created a pipeline project from jenkins browser and used pipeline scm git to run the jenkinsfile(pipeline) from github
+![pipeline_output](/images/image1.PNG)
