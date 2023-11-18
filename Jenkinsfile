@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'docker build -t dewan11415/app1:latest .'
+        sh 'docker build -t dewan11415/app2:latest .'
       }
     }
     stage('Login') {
